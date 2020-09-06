@@ -113,7 +113,7 @@ Items in each section include the following icons:
 
 [Details](https://github.com/dotnet/interactive/issues/392)
 
-- ![Completed](media/status-completed.png "Completed icon") Multi Language support for Jupyter Notebooks (C#, F#, PowerShell)
+- ![Completed](media/status-completed.png "Completed icon") Multi Language support for Jupyter Notebooks (C#, F# and PowerShell)
 - ![In Progress](media/status-in-progress.png "In Progress icon") .NET Notebooks support in VS code Support
 - ![In Progress](media/status-in-progress.png "In Progress icon") Improve Productivity
 - ![In Progress](media/status-in-progress.png "In Progress icon") .NET Interactive for makers
